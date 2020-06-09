@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bookType">
+        <item>Công nghệ thông tin</item>
+        <item>Khoa học tự nhiên</item>
+        <item>Văn hóa nghệ thuật</item>
+<!--        <item>Điện tử viễn thông</item>-->
+
+    </string-array>
+</resources>

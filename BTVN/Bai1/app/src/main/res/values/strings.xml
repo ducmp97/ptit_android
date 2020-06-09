@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bai1</string>
+    <string name="xin_chao">Hello VietNam</string>
+    <string name="selected_language"> Chọn ngôn ngữ</string>
+    <string name="txtEnglish">Tiếng Anh</string>
+    <string name="txtVietnamese">Tiếng Việt</string>
+    <string name="btnSave">Lưu</string>
+    <string name="txtMultiLanguage">
+        Trong giờ phút cuối đời của mình, người cha đã khuyên con trai ông ấy phải luôn nói thật.
+        Người con hứa rằng anh ấy sẽ không bao giờ nói dối.
+        Một ngày nọ, trong khi đi đến thành phố thông qua khu rừng, cậu bé bị bao quanh bởi những tên cướp.
+        Một trong số chúng hỏi “mày có cái gì?” Anh ta trả lời: “Tôi có 50 đồng ru pi” Họ lục soát người anh ta nhưng không tìm thấy bất kỳ thứ gì.
+        Khi họ chuẩn bị bỏ đi, cậu bé gọi họ lại: ” Tôi không nói dối. Nhìn này 50 đồng rupi tôi giấu trong áo này”.
+        Thủ lĩnh băng cướp cảm thấy hài lòng về tính thật thà của cậu bé, ông ta cho cậu bé 100 đồng rupi như một phần thưởng và bỏ đi.
+    </string>
+    <string name="btnBack">Quay lại</string>
+</resources>
